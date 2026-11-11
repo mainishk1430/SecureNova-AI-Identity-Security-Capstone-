@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SecureNova AI</title>
+</head>
+<body>
+    <h1>SecureNova AI Identity Platform</h1>
+
+    {% if user %}
+        <h2>Welcome, {{ user.get('name', 'User') }}</h2>
+        <p>Email: {{ user.get('email', 'Not available') }}</p>
+
+        <p><a href="/chat">Access AI Data</a></p>
+        <p><a href="/admin">Test Admin Access</a></p>
+        <p><a href="/logout">Logout</a></p>
+    {% else %}
+        <p>Sign in securely using Auth0 Universal Login.</p>
+        <a href="/login">Login with Auth0</a>
+    {% endif %}
+</body>
+</html>
