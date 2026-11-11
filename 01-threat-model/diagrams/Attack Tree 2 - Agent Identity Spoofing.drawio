@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="H3Us6NzAgJLg6Xmlu-xs">
+    <mxGraphModel dx="1110" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-6" edge="1" parent="1" source="-F7JkIWcJ0oyzBVZm_cM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-F7JkIWcJ0oyzBVZm_cM-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GOAL: Gain Elevated API Scope" vertex="1">
+          <mxGeometry height="80" width="190" x="285" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-7" edge="1" parent="1" source="-F7JkIWcJ0oyzBVZm_cM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-F7JkIWcJ0oyzBVZm_cM-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Obtain Agent Identity Credentials" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-8" edge="1" parent="1" source="-F7JkIWcJ0oyzBVZm_cM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-F7JkIWcJ0oyzBVZm_cM-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forge or Steal Agent Access Token" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-9" edge="1" parent="1" source="-F7JkIWcJ0oyzBVZm_cM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-F7JkIWcJ0oyzBVZm_cM-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Exploit Weak Token validation or Excessive Permissions" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Access Privileged Internal REST API" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-F7JkIWcJ0oyzBVZm_cM-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Likelihood: 4/5&lt;div&gt;Impact: 5/5&lt;/div&gt;&lt;div&gt;Risk Score: 20/25&lt;/div&gt;&lt;div&gt;Risk Level: critical&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="150" x="610" y="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

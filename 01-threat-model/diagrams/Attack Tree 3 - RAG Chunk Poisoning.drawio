@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Jv-U8RY-pA2IMNW62uOJ">
+    <mxGraphModel dx="1110" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-6" edge="1" parent="1" source="-jaH8WfUaKJpyonV4ZI9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-jaH8WfUaKJpyonV4ZI9-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GOAL: RAG Chunk Poisoning to Manipulate AI Agent Behaviour&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="210" x="310" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-7" edge="1" parent="1" source="-jaH8WfUaKJpyonV4ZI9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-jaH8WfUaKJpyonV4ZI9-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gain Unauthorized Access to RAG Data Source" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-8" edge="1" parent="1" source="-jaH8WfUaKJpyonV4ZI9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-jaH8WfUaKJpyonV4ZI9-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Inject Malicious Content into Knowledge Source" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-9" edge="1" parent="1" source="-jaH8WfUaKJpyonV4ZI9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-jaH8WfUaKJpyonV4ZI9-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Poison or Modify Retrieved RAG Chunks" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Influence Agent Response or Tool Execution" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="-jaH8WfUaKJpyonV4ZI9-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Likelihood: 3/5&lt;div&gt;Impact: 5/5&lt;/div&gt;&lt;div&gt;Risk Score: 15/25&lt;/div&gt;&lt;div&gt;Risk Level: High&lt;/div&gt;" vertex="1">
+          <mxGeometry height="129" width="180" x="620" y="141" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
